@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173480361027",
+    "project_id": "flash-chat-30bea",
+    "storage_bucket": "flash-chat-30bea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173480361027:android:071b006f0e827a646168f6",
+        "android_client_info": {
+          "package_name": "com.lifequiz.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173480361027-67hb2m8k3s8r5agu70b3ah9fvcdmma2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByCgv5nKGE24tM-hEpCZ7yHDdrJwYuets"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173480361027-67hb2m8k3s8r5agu70b3ah9fvcdmma2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
